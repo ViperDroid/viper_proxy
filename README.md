@@ -23,7 +23,7 @@ dont touch the code , if you wanna touching the code , after you having any erro
    ```bash
    git clone https://github.com/ViperDroid/viper_proxy.git
    cd viper_proxy
-   python -m venv venv
+   python3 -m venv venv
    source venv/bin/activate  # for Linux/Mac
    venv\Scripts\activate     # for Windows
    pip install -r requirements.txt
