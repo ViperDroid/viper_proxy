@@ -22,7 +22,7 @@ dont touch the code , if you wanna touching the code , after you having any erro
 1. Clone the repository:
    ```bash
    git clone https://github.com/ViperDroid/viper_proxy.git
-   cd network_viper
+   cd viper_proxy
    python -m venv venv
    source venv/bin/activate  # for Linux/Mac
    venv\Scripts\activate     # for Windows
